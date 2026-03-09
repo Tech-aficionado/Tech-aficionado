@@ -35,7 +35,7 @@
 
 - 💬 Ask me about **JavaScript, Python, React, Next.js, Cloud**
 
-- 📫 Reach me at **shivansh..goela12@gmail.com**
+- 📫 Reach me at **shivansh.goela12@gmail.com**
 
 - 📍 Location: **Muzaffarnagar, Uttar Pradesh, India**
 
