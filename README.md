@@ -39,7 +39,7 @@
 
 - 📍 Location: **Muzaffarnagar, Uttar Pradesh, India**
 
-- 📄 Download my [Resume](https://drive.usercontent.google.com/u/0/uc?id=1MGXNj2utvuwFnYIyHX6PgIfJMHUeGdce&export=download)
+- 📄 Download my [Resume](https://drive.usercontent.google.com/u/0/uc?id=1yd0N1QKORwi_b7wwOQcBD3sO3D1Y4-EL&export=download)
 
 - ⚡ Fun fact **I am a Tech Aficionado 🚀**
 
