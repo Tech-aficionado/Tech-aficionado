@@ -39,7 +39,7 @@
 
 - 📍 Location: **Muzaffarnagar, Uttar Pradesh, India**
 
-- 📄 View my [Resume]((https://0xshiv.dev/resumes/resume_ShivanshGoel_FullStack.pdf))
+- 📄 View my [Resume]([(https://0xshiv.dev/resumes/resume_ShivanshGoel_FullStack.pdf)])
 
 - ⚡ Fun fact **I am a Tech Aficionado 🚀**
 
