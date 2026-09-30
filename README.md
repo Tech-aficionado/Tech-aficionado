@@ -1,150 +1,101 @@
-
-<br>
-
 <div align="center">
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThqcHE0enpvMmY0NDg0MTZ2bmF0MjY5OGJqbmwzZTN4b3pqMmw5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y81LcaKMWn4VDMgEX1/giphy.gif" width="150" alt="" />
+<img src="https://user-images.githubusercontent.com/61025448/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="120" alt="" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Greetings+From+Shivansh's+Enchanters🪄+Your+Passport+to+a+World+Of+Wonder!)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3000&pause=900&color=9D7CFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shivansh+Goel+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;I+ship+real+products%2C+not+demos;Flutter+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+AI" alt="Typing intro" />
 
- <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee34f51d-eb2c-4fd0-8047-260ae0417996/demij6b-7cea31ba-524e-440b-8567-5249198385d5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMzRmNTFkLWViMmMtNGZkMC04MDQ3LTI2MGFlMDQxNzk5NlwvZGVtaWo2Yi03Y2VhMzFiYS01MjRlLTQ0MGItODU2Ny01MjQ5MTk4Mzg1ZDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.X1f9W8JPziANOvZR18_H7xwvgcy4XJ8b8yMgcrdM1f0" width="140" height="160">
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThqcHE0enpvMmY0NDg0MTZ2bmF0MjY5OGJqbmwzZTN4b3pqMmw5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y81LcaKMWn4VDMgEX1/giphy.gif" width="180" height="170">
-  <!--Crédit https://www.deviantart.com/dokitsu/art/Kuro-s-the-black-wizard-Mazgeon-605238839-->
-  <img src="https://user-images.githubusercontent.com/61025448/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="140">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad944b60-96dc-4ae5-9486-f981d5842975/d1p0kr2-931c991a-906c-44de-9ffa-0f654bc310f6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkOTQ0YjYwLTk2ZGMtNGFlNS05NDg2LWY5ODFkNTg0Mjk3NVwvZDFwMGtyMi05MzFjOTkxYS05MDZjLTQ0ZGUtOWZmYS0wZjY1NGJjMzEwZjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mWAenByMAJlSrMsEbMShKRx2DyaIeaCsH55QMdQKKQ0"  width="174" height="190">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee34f51d-eb2c-4fd0-8047-260ae0417996/ddwqjut-79060fc2-c6be-4e80-ab44-3c405523e4fd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMzRmNTFkLWViMmMtNGZkMC04MDQ3LTI2MGFlMDQxNzk5NlwvZGR3cWp1dC03OTA2MGZjMi1jNmJlLTRlODAtYWI0NC0zYzQwNTUyM2U0ZmQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0vFkqN3rMaQ7mnEkhkZWkLG4XhR4Atr647NuIPzkhHk" >
-</div>
+<p>
+Final-year B.Tech CSE student from India 🇮🇳 who builds and <b>ships</b> production apps end to end —<br/>
+Flutter mobile apps on real testers' phones, Next.js web platforms, Python backends, and AI features that actually hold up.
+</p>
 
-<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm Shivansh Goel</h1>
+<a href="https://0xshiv.dev"><img src="https://img.shields.io/badge/Portfolio-0xshiv.dev-9D7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://0xshiv.dev/resumes/resume_ShivanshGoel_FullStack.pdf"><img src="https://img.shields.io/badge/Resume-PDF-EA4335?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+<a href="https://www.linkedin.com/in/shivansh-goel-5b2309174/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shivansh.goela12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Computer+Science+Student;Open-source+Contributor;Tech+Aficionado;IT+Enthusiast;" alt="Typing SVG" />
-</h3>
-
-<h3 align="center"><strong> A Passionate Developer from India 🇮🇳 <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
-
-<br><br>
-
-<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tech-aficionado&label=Profile%20views&color=0e75b6&style=flat" alt="Tech-aficionado" /> </p>
-
-- 🔭 I’m currently to collaborate on **open-source projects**
-
-- 🌱 I’m currently learning **Advanced Full Stack Technologies**
-
-- 💬 Ask me about **JavaScript, Python, React, Next.js, Cloud**
-
-- 📫 Reach me at **shivansh.goela12@gmail.com**
-
-- 📍 Location: **Muzaffarnagar, Uttar Pradesh, India**
-
-- 📄 View my [Resume](https://0xshiv.dev/resumes/resume_ShivanshGoel_FullStack.pdf)
-
-- ⚡ Fun fact **I am a Tech Aficionado 🚀**
-
-  <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
-
-<div align="center">
-<h2 align='center'><strong>Socials and Coding Profiles 💻</strong></h2>
-
- <br><br>
-<a href="https://www.linkedin.com/in/shivansh-goel-5b2309174/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shivansh..goela12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/Tech-aficionado"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=Tech-aficionado&label=Profile%20views&color=9D7CFF&style=flat" alt="Profile views" />
 
 </div>
 
-<br><br>
+---
+
+### 🧑‍💻 About me
+
+<img align="right" width="360" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif" alt="" />
+
+- 🚀 I like taking an idea all the way to **users' hands** — auth, payments, CI/CD, releases, monitoring, the boring-but-important parts included.
+- 📱 Mostly working in **Flutter**, **Next.js / TypeScript**, **Python (FastAPI)**, **Supabase** and **Firebase**.
+- 🤖 Building AI features with LLM APIs (Groq, Gemini) behind secure server-side gateways — never keys in the client.
+- 🌱 Currently exploring security tooling, offline-first architecture, and local on-device AI models.
+- 🤝 Open to **full-time roles and internships** — the fastest way to reach me is [email](mailto:shivansh.goela12@gmail.com).
+- 📍 Muzaffarnagar, Uttar Pradesh, India
+
+---
+
+### 🛠️ Products I've built
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 🏋️ **[FitTrack AI](https://fittrack.0xshiv.dev/)** | AI fitness coach — workout & nutrition plans, barcode food lookup, step tracking, 3D exercise library. Shipped to testers through CI-driven Android releases. | Flutter · Firebase · Supabase Edge · Next.js |
+| 🧠 **[Quizify](https://quizify.0xshiv.dev)** | AI quiz platform — generated quizzes, Quiz Arena, leaderboards, daily quests, XP & streaks. | Flutter · Supabase · AI orchestrator |
+| 🏫 **[CampusPass](https://0xshiv.dev/#contact)** | Multi-tenant hostel leave & outpass system — offline-verifiable signed passes, guard gate scanner, tamper-evident audit trail. <sub>Demo on request</sub> | TypeScript · Node · Postgres · Redis · Docker |
+| 🛡️ **[Aegis-X](https://0xshiv.dev/#contact)** | Security intelligence dashboard — repo scanning, AI code review, and an architecture map for any GitHub repo. <sub>Demo on request</sub> | Next.js · FastAPI · Docker |
+| 🛒 **[VyaaparAI](https://vyaaparai.in)** | AI-powered storefront builder for small Indian businesses with per-store custom domains. | Next.js · Python · Vercel |
+
+<sub>Most of these are private repos — happy to walk through the code in an interview.</sub>
+
+### 🌍 Open source
+
+- 🧱 **[CraftFolio](https://github.com/Tech-aficionado/CraftFolio---Open-Sourced-Minecraft-Portfolio-Library)** — npm library: turn a React app into a Minecraft-themed portfolio with a live 3D voxel world, in one component.
+- 👻 **[GhostRelay](https://github.com/Tech-aficionado/GhostRelay---Open-Source)** — privacy-first email aliasing on the Cloudflare free stack. [Live ↗](https://ghostrelay.me)
+- 🔗 **[ZipLink](https://github.com/Tech-aficionado/ZipLink---Open-Source)** — fast, self-hostable URL shortener (Next.js + Firebase). [Live ↗](https://ziplink.0xshiv.dev)
+- 🌳 **[Forkcast](https://github.com/Tech-aficionado/Forkcast---Open-Source-Git)** — branch life decisions like a git repo, commit predictions, and let time score your judgment.
+- 🤝 **[DareStake](https://github.com/Tech-aficionado/darestake)** — two-person accountability PWA with a race-safe penalty engine and 86 tests. [Live ↗](https://darestake.0xshiv.dev)
+- 📻 **[MoodRadio](https://github.com/Tech-aficionado/MoodRadio)** — type how you feel, AI plays matching music. [Live ↗](https://moodradio.0xshiv.dev)
+- 🐣 **[Tamagochi](https://github.com/Tech-aficionado/Tamagochi---Open-Source-Game)** — an adorable open-source virtual pet game. [Live ↗](https://tamagochi-open-source-game.vercel.app/)
+- 📈 **[MarginMind Pro](https://github.com/Tech-aficionado/MarginMind-Pro)** — resilient async trading terminal for Binance Futures.
+
+---
+
+### ⚙️ Tech I use
 
 <div align="center">
-<h2 align='center'><strong>Languages, Tools and Technologies 🚀 </strong></h2>
-	<br>
-<table>
-	<tr>
-		<td><strong>Programming Languages</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,php,html,css,markdown,latex&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,svelte,bootstrap,tailwind,materialui,redux,vite,webpack&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Backend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,dotnet,spring&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Database Technologies</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase,redis&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Cloud & DevOps</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,githubactions,vercel,netlify,heroku,digitalocean&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Tools & Platforms</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,figma,unity,unreal,linux,windows&theme=dark"></td>
-	</tr>
-    <tr>
-		<td><strong>Libraries & Others</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy,matplotlib,selenium,jest,threejs&theme=dark"></td>
-	</tr>
-</table>
+
+| | |
+| --- | --- |
+| **Languages** | <img height="36" src="https://skillicons.dev/icons?i=dart,ts,js,python,java,cpp,html,css&theme=dark" /> |
+| **Frontend & Mobile** | <img height="36" src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,electron,vite&theme=dark" /> |
+| **Backend** | <img height="36" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" /> |
+| **Data** | <img height="36" src="https://skillicons.dev/icons?i=supabase,firebase,postgres,mongodb,redis,sqlite&theme=dark" /> |
+| **Cloud & DevOps** | <img height="36" src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify,cloudflare,gcp,aws&theme=dark" /> |
+| **Tools** | <img height="36" src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" /> |
+
 </div>
 
-<br><br>
+---
 
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="" width="80" align="right" />
+<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="" width="80" align="left" />
 
-<br/>
-<br/>
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
-<img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
-
+<h3 align="center">📊 GitHub activity</h3>
+<br clear="both" />
 
 <div align="center">
-<h3 align='center'><strong>Github Analytics ⚙️</strong></h3>
 
-<br>
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%" />
 
-<markdown-accessiblity-table data-catalyst="">
-  <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
-    <thead>
-	    <tr>
-		  <th colspan="2" align="center">
-			   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Night Green Profile" style="width: 100%; object-fit: contain;" />
-		  </th>
-		</tr>
-      <tr>
-        <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tech-aficionado&theme=github_dark">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tech-aficionado&theme=github_dark" style= "width: 24.5em; height: 14em; object-fit: contain;" />
-          </a>
-        </th>
-        <th style="padding: 20px; text-align: center;">
-          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=Tech-aficionado&show_icons=true&locale=en">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tech-aficionado&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
-          </a>
-        </th>
-      </tr>
-    </thead>
-	   <tr>
-        <td  colspan="2" align="center"> 
-		<br>
-	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-		
+<img src="https://streak-stats.demolab.com?user=Tech-aficionado&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tech-aficionado&theme=tokyonight" alt="Top languages by commit" height="165" />
+
 <picture>
-  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tech-aficionado/Tech-aficionado/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tech-aficionado/Tech-aficionado/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tech-aficionado/Tech-aficionado/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Tech-aficionado/Tech-aficionado/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Tech-aficionado/Tech-aficionado/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-	</td>
-	</tr>
-  </table>
-  
-</markdown-accessiblity-table>
+
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
