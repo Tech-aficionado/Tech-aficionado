@@ -1,0 +1,32 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .h    { font: 700 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #f5f3ff; }
+      .link { font: 600 15px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e3e0f5; }
+      .pill { fill: #1a1726; stroke: #332b52; stroke-width: 1.5; }
+      .pill:hover { stroke: #9D7CFF; }
+    </style>
+  </defs>
+  <rect width="900" height="160" rx="20" fill="#0d0e14"/>
+  <rect x="2" y="2" width="896" height="156" rx="18" fill="none" stroke="#2a2440" stroke-width="2"/>
+  <text x="40" y="46" class="h">🔗 Let's connect</text>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <a href="https://0xshiv.dev" target="_blank">
+      <rect class="pill" x="40" y="66" width="150" height="44" rx="12"/>
+      <text x="115" y="93" text-anchor="middle" class="link">🌐 Portfolio</text>
+    </a>
+    <a href="https://www.linkedin.com/in/shivansh-goel-5b2309174/" target="_blank">
+      <rect class="pill" x="204" y="66" width="150" height="44" rx="12"/>
+      <text x="279" y="93" text-anchor="middle" class="link">💼 LinkedIn</text>
+    </a>
+    <a href="mailto:shivansh.goela12@gmail.com">
+      <rect class="pill" x="368" y="66" width="150" height="44" rx="12"/>
+      <text x="443" y="93" text-anchor="middle" class="link">✉️ Email</text>
+    </a>
+    <a href="https://0xshiv.dev/resumes/resume_ShivanshGoel_FullStack.pdf" target="_blank">
+      <rect class="pill" x="532" y="66" width="150" height="44" rx="12"/>
+      <text x="607" y="93" text-anchor="middle" class="link">📄 Resume</text>
+    </a>
+  </g>
+</svg>

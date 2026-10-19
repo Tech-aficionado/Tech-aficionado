@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThqcHE0enpvMmY0NDg0MTZ2bmF0MjY5OGJqbmwzZTN4b3pqMmw5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y81LcaKMWn4VDMgEX1/giphy.gif" width="150" alt="" />
-<img src="https://user-images.githubusercontent.com/61025448/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="120" alt="" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3000&pause=900&color=9D7CFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shivansh+Goel+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;I+ship+real+products%2C+not+demos;Flutter+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+AI" alt="Typing intro" />
-
-<p>
-Final-year B.Tech CSE student from India 🇮🇳 who builds and <b>ships</b> production apps end to end —<br/>
-Flutter mobile apps on real testers' phones, Next.js web platforms, Python backends, and AI features that actually hold up.
-</p>
+<img src="./assets/section-hero.svg" alt="Hero intro" width="100%" />
 
 <a href="https://0xshiv.dev"><img src="https://img.shields.io/badge/Portfolio-0xshiv.dev-9D7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://0xshiv.dev/resumes/resume_ShivanshGoel_FullStack.pdf"><img src="https://img.shields.io/badge/Resume-PDF-EA4335?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
@@ -21,16 +13,15 @@ Flutter mobile apps on real testers' phones, Next.js web platforms, Python backe
 
 ---
 
-### 🧑‍💻 About me
+<div align="center">
+<img src="./assets/section-idcard.svg" alt="ID card" width="100%" />
+</div>
 
-<img align="right" width="360" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif" alt="" />
+---
 
-- 🚀 I like taking an idea all the way to **users' hands** — auth, payments, CI/CD, releases, monitoring, the boring-but-important parts included.
-- 📱 Mostly working in **Flutter**, **Next.js / TypeScript**, **Python (FastAPI)**, **Supabase** and **Firebase**.
-- 🤖 Building AI features with LLM APIs (Groq, Gemini) behind secure server-side gateways — never keys in the client.
-- 🌱 Currently exploring security tooling, offline-first architecture, and local on-device AI models.
-- 🤝 Open to **full-time roles and internships** — the fastest way to reach me is [email](mailto:shivansh.goela12@gmail.com).
-- 📍 Muzaffarnagar, Uttar Pradesh, India
+<div align="center">
+<img src="./assets/section-about.svg" alt="About me" width="100%" />
+</div>
 
 ---
 
@@ -59,19 +50,14 @@ Flutter mobile apps on real testers' phones, Next.js web platforms, Python backe
 
 ---
 
-### ⚙️ Tech I use
+<div align="center">
+<img src="./assets/section-stack.svg" alt="Tech I use" width="100%" />
+</div>
+
+---
 
 <div align="center">
-
-| | |
-| --- | --- |
-| **Languages** | <img height="36" src="https://skillicons.dev/icons?i=dart,ts,js,python,java,cpp,html,css&theme=dark" /> |
-| **Frontend & Mobile** | <img height="36" src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,electron,vite&theme=dark" /> |
-| **Backend** | <img height="36" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" /> |
-| **Data** | <img height="36" src="https://skillicons.dev/icons?i=supabase,firebase,postgres,mongodb,redis,sqlite&theme=dark" /> |
-| **Cloud & DevOps** | <img height="36" src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify,cloudflare,gcp,aws&theme=dark" /> |
-| **Tools** | <img height="36" src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" /> |
-
+<img src="./assets/section-connect.svg" alt="Let's connect" width="100%" />
 </div>
 
 ---
